@@ -19,6 +19,8 @@ python source/main.py
 
 *RIGHT CLICK ON MOUSE* - erases desired point from the graph.
 
+*SPACE*                - starts the program
+
 *c letter*             - resets the graph
 
 *s letter*             - switches between search algorithms(default is a*)
